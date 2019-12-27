@@ -2,14 +2,14 @@
   "banners": [
     {
       "title": "Знижка на кулінарію по Вівторках",
-      "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbanner1.png?raw=true"
+      "imageUrl": "https://github.com/RoaringFlow/content/blob/mast/images/3Xbanner1.png?raw=true"
     },
     {
       "title": "Знижка на кулінарію по Вівторках",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbanner1.png?raw=true"
     },
     {
-     "title": "Знижка на кулінарію по Вівторках",
+      "title": "Знижка на кулінарію по Вівторках",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbanner1.png?raw=true"
     },
     {
@@ -45,7 +45,7 @@
           "description": "1 янв. - 13 фев. (еще 42 дн.)",
           "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
-        },
+        }
       ]
     },
     {
@@ -117,6 +117,6 @@
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
         }
       ]
-    },
+    }
   ]
 }
