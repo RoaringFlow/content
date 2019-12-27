@@ -9,7 +9,7 @@
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbanner1.png?raw=true"
     },
     {
-     "title": "Знижка на кулінарію по Вівторках",
+      "title": "Знижка на кулінарію по Вівторках",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbanner1.png?raw=true"
     },
     {
@@ -21,42 +21,42 @@
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbanner1.png?raw=true"
     }
   ],
-  "brends": [
+  "brands": [
     {
       "title": "Сільпо",
-      "descritpion": "Сільпо",
+      "description": "Сільпо",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xsilpo.png?raw=true",
       "count": 3,
       "promotions": [
         {
           "title": "Просто бомбезна пропозиція",
-          "descritpion": "1 янв. - 13 фев. (еще 42 дн.)",
+          "description": "1 янв. - 13 фев. (еще 42 дн.)",
           "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
         },
         {
           "title": "Просто бомбезна пропозиція",
-          "descritpion": "1 янв. - 13 фев. (еще 42 дн.)",
+          "description": "1 янв. - 13 фев. (еще 42 дн.)",
           "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
         },
         {
           "title": "Просто бомбезна пропозиція",
-          "descritpion": "1 янв. - 13 фев. (еще 42 дн.)",
+          "description": "1 янв. - 13 фев. (еще 42 дн.)",
           "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
-        },
+        }
       ]
     },
     {
       "title": "АТБ",
-      "descritpion": "АТБ",
+      "description": "АТБ",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xatb.png?raw=true",
       "count": 3,
       "promotions": [
         {
           "title": "Просто бомбезна пропозиція",
-          "descritpion": "1 янв. - 13 фев. (еще 42 дн.)",
+          "description": "1 янв. - 13 фев. (еще 42 дн.)",
           "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
         }
@@ -64,13 +64,13 @@
     },
     {
       "title": "Billa",
-      "descritpion": "Billa",
+      "description": "Billa",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbilla.png?raw=true",
       "count": 3,
       "promotions": [
         {
           "title": "Просто бомбезна пропозиція",
-          "descritpion": "1 янв. - 13 фев. (еще 42 дн.)",
+          "description": "1 янв. - 13 фев. (еще 42 дн.)",
           "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
         }
@@ -78,13 +78,13 @@
     },
     {
       "title": "Metro",
-      "descritpion": "Metro",
+      "description": "Metro",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xmetro.png?raw=true",
       "count": 3,
       "promotions": [
         {
           "title": "Просто бомбезна пропозиція",
-          "descritpion": "1 янв. - 13 фев. (еще 42 дн.)",
+          "description": "1 янв. - 13 фев. (еще 42 дн.)",
           "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
         }
@@ -92,13 +92,13 @@
     },
     {
       "title": "Ашан",
-      "descritpion": "Ашан",
+      "description": "Ашан",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3xachaun.png?raw=true",
       "count": 3,
       "promotions": [
         {
           "title": "Просто бомбезна пропозиція",
-          "descritpion": "1 янв. - 13 фев. (еще 42 дн.)",
+          "description": "1 янв. - 13 фев. (еще 42 дн.)",
           "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
         }
@@ -106,17 +106,17 @@
     },
     {
       "title": "Еко маркет",
-      "descritpion": "Еко маркет",
+      "description": "Еко маркет",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket.png?raw=true",
       "count": 3,
       "promotions": [
         {
           "title": "Просто бомбезна пропозиція",
-          "descritpion": "1 янв. - 13 фев. (еще 42 дн.)",
+          "description": "1 янв. - 13 фев. (еще 42 дн.)",
           "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
         }
       ]
-    },
+    }
   ]
 }
