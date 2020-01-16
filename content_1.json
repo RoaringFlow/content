@@ -26,11 +26,13 @@
       "title": "Сільпо",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xsilpo.png?raw=true",
       "count": 3,
-      "offers": [
+      "buklets": [
         {
           "title": "Просто бомбезна пропозиція",
-          "description": "1 янв. - 13 фев. (еще 42 дн.)",
-          "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
+          "startDate":"1:01:2012",
+          "endDate":"1:01:2012",
+          "imageUrls":[],
+          "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
         },
         {
@@ -43,6 +45,15 @@
           "title": "Просто бомбезна пропозиція",
           "description": "1 янв. - 13 фев. (еще 42 дн.)",
           "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/1xsilpo-offer1.png?raw=true",
+          "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
+        }
+      ],
+      "offers":[{
+          "title": "Просто бомбезна пропозиція",
+          "startDate":"1:01:2012",
+          "endDate":"1:01:2012",
+          "imageUrl":"string",
+          "discountPrice":"",
           "imagePreview": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
         }
       ]
