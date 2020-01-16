@@ -53,7 +53,7 @@
       "description": "АТБ",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xatb.png?raw=true",
       "count": 3,
-      "promotions": [
+      "companies": [
         {
           "title": "Просто бомбезна пропозиція",
           "description": "1 янв. - 13 фев. (еще 42 дн.)",
@@ -67,7 +67,7 @@
       "description": "Billa",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbilla.png?raw=true",
       "count": 3,
-      "promotions": [
+      "companies": [
         {
           "title": "Просто бомбезна пропозиція",
           "description": "1 янв. - 13 фев. (еще 42 дн.)",
@@ -81,7 +81,7 @@
       "description": "Metro",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xmetro.png?raw=true",
       "count": 3,
-      "promotions": [
+      "companies": [
         {
           "title": "Просто бомбезна пропозиція",
           "description": "1 янв. - 13 фев. (еще 42 дн.)",
@@ -95,7 +95,7 @@
       "description": "Ашан",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3xachaun.png?raw=true",
       "count": 3,
-      "promotions": [
+      "companies": [
         {
           "title": "Просто бомбезна пропозиція",
           "description": "1 янв. - 13 фев. (еще 42 дн.)",
@@ -109,7 +109,7 @@
       "description": "Еко маркет",
       "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket.png?raw=true",
       "count": 3,
-      "promotions": [
+      "companies": [
         {
           "title": "Просто бомбезна пропозиція",
           "description": "1 янв. - 13 фев. (еще 42 дн.)",
