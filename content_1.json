@@ -18,6 +18,51 @@
                         "title": "Знижка на кулінарію по Вівторках",
                         "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbanner1.png?raw=true"
                     }
+                },
+                {
+                    "title": "Просто бомбезна пропозиція",
+                    "previewImageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true",
+                    "validityPeriod": {
+                        "startAt": "2020-01-17T00:00:00",
+                        "endAt": "2020-01-17T00:00:00"
+                    },
+                    "detailImageUrls": [
+                        "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
+                    ],
+                    "banner": {
+                        "title": "Знижка на кулінарію по Вівторках",
+                        "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbanner1.png?raw=true"
+                    }
+                },
+                {
+                    "title": "Просто бомбезна пропозиція",
+                    "previewImageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true",
+                    "validityPeriod": {
+                        "startAt": "2020-01-17T00:00:00",
+                        "endAt": "2020-01-17T00:00:00"
+                    },
+                    "detailImageUrls": [
+                        "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
+                    ],
+                    "banner": {
+                        "title": "Знижка на кулінарію по Вівторках",
+                        "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbanner1.png?raw=true"
+                    }
+                },
+                {
+                    "title": "Просто бомбезна пропозиція",
+                    "previewImageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true",
+                    "validityPeriod": {
+                        "startAt": "2020-01-17T00:00:00",
+                        "endAt": "2020-01-17T00:00:00"
+                    },
+                    "detailImageUrls": [
+                        "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true"
+                    ],
+                    "banner": {
+                        "title": "Знижка на кулінарію по Вівторках",
+                        "imageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbanner1.png?raw=true"
+                    }
                 }
             ]
         },
