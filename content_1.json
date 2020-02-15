@@ -77,6 +77,11 @@
             "booklets": []
         },
         {
+            "title": "Novus",
+            "logoUrl": "https://giskon.com.ua/wp-content/uploads/2016/01/novus-logo_2.jpg",
+            "booklets": []
+        },
+        {
             "title": "Metro",
             "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xmetro.png?raw=true",
             "booklets": []
@@ -84,6 +89,21 @@
         {
             "title": "Ашан",
             "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3xachaun.png?raw=true",
+            "booklets": []
+        },
+        {
+            "title": "Фора",
+            "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTt2pQ2ew5oJtWN_pMtSwT8rtn9fYXl4qefKXz7aYj1lEdMi9Jx",
+            "booklets": []
+        },
+        {
+            "title": "Фуршет",
+            "logoUrl": "https://mmr.ua/uploaded/materials/f315c0b0d0.jpg",
+            "booklets": []
+        },
+        {
+            "title": "МегаМаркет",
+            "logoUrl": "https://latifundist.com/media/company/300-s/00/01/1292/megamarket-104209.png",
             "booklets": []
         },
         {
@@ -111,6 +131,26 @@
                     }
                 }
             ]
+        },
+        {
+            "title": "Eva",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_EVA.jpg",
+            "booklets": []
+        },
+        {
+            "title": "Faberlic",
+            "logoUrl": "https://pbs.twimg.com/profile_images/682158696235843585/AqSqz8QV_400x400.png",
+            "booklets": []
+        },
+        {
+            "title": "Avon",
+            "logoUrl": "https://www.sostav.ru/images/news/2019/03/12/2zmyiniw.png",
+            "booklets": []
+        },
+        {
+            "title": "Prostor",
+            "logoUrl": "https://cdn0.pokupon.ua/uploaded/merchant_pages/1834/logos/original/Prostor-320x240.png",
+            "booklets": []
         }
     ]
 }
