@@ -132,6 +132,28 @@
                 }
             ]
         },
+
+        {
+            "title": "Fozzy",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Fozzy_Group_logo.png",
+            "booklets": []
+        },
+        {
+            "title": "Велика кишеня",
+            "logoUrl": "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/ff/bd/3d/ffbd3df5-86ef-93ed-f828-fbaa093c3fad/source/512x512bb.jpg",
+            "booklets": []
+        },
+        {
+            "title": "Велмарт",
+            "logoUrl": "https://kirkat.com.ua/images/catalog/be2d7723df0107455b8fc6dbefa8c545.jpg",
+            "booklets": []
+        },
+        {
+            "title": "Таврия в",
+            "logoUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/d4/c5/ce/d4c5cee5-256f-68b8-0593-4f9c608120ee/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.png",
+            "booklets": []
+        },
+
         {
             "title": "Eva",
             "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_EVA.jpg",
