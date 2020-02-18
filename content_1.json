@@ -1,6 +1,97 @@
 {
     "companies": [
         {
+            "title": "АТБ",
+            "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xatb.png?raw=true",
+            "booklets": []
+        },
+        {
+            "title": "Ашан",
+            "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3xachaun.png?raw=true",
+            "booklets": []
+        },
+        {
+            "title": "Avon",
+            "logoUrl": "https://www.sostav.ru/images/news/2019/03/12/2zmyiniw.png",
+            "booklets": []
+        },
+        {
+            "title": "Billa",
+            "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbilla.png?raw=true",
+            "booklets": []
+        },
+        {
+            "title": "Еко маркет",
+            "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket.png?raw=true",
+            "booklets": [],
+            "offers": [
+                {
+                    "title": "Просто бомбезна пропозиція",
+                    "previewImageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true",
+                    "validityPeriod": {
+                        "startAt": "2020-01-17T00:00:00",
+                        "endAt": "2020-01-17T00:00:00"
+                    },
+                    "tags": [
+                        {
+                            "id": "123",
+                            "name": "123"
+                        }
+                    ],
+                    "priceInfo": {
+                        "originalPrice": 123,
+                        "discountValue": 10,
+                        "discountType": "Percent"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Eva",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_EVA.jpg",
+            "booklets": []
+        },
+        {
+            "title": "Faberlic",
+            "logoUrl": "https://pbs.twimg.com/profile_images/682158696235843585/AqSqz8QV_400x400.png",
+            "booklets": []
+        },
+        {
+            "title": "Фора",
+            "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTt2pQ2ew5oJtWN_pMtSwT8rtn9fYXl4qefKXz7aYj1lEdMi9Jx",
+            "booklets": []
+        },
+        {
+            "title": "Fozzy",
+            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Fozzy_Group_logo.png",
+            "booklets": []
+        },
+        {
+            "title": "Фуршет",
+            "logoUrl": "https://mmr.ua/uploaded/materials/f315c0b0d0.jpg",
+            "booklets": []
+        },
+        {
+            "title": "МегаМаркет",
+            "logoUrl": "https://latifundist.com/media/company/300-s/00/01/1292/megamarket-104209.png",
+            "booklets": []
+        },
+        {
+            "title": "Metro",
+            "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xmetro.png?raw=true",
+            "booklets": []
+        },
+        {
+            "title": "Novus",
+            "logoUrl": "https://giskon.com.ua/wp-content/uploads/2016/01/novus-logo_2.jpg",
+            "booklets": []
+        },
+        {
+            "title": "Prostor",
+            "logoUrl": "https://cdn0.pokupon.ua/uploaded/merchant_pages/1834/logos/original/Prostor-320x240.png",
+            "booklets": []
+        },
+        {
             "title": "Сільпо",
             "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xsilpo.png?raw=true",
             "booklets": [
@@ -67,75 +158,8 @@
             ]
         },
         {
-            "title": "АТБ",
-            "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xatb.png?raw=true",
-            "booklets": []
-        },
-        {
-            "title": "Billa",
-            "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xbilla.png?raw=true",
-            "booklets": []
-        },
-        {
-            "title": "Novus",
-            "logoUrl": "https://giskon.com.ua/wp-content/uploads/2016/01/novus-logo_2.jpg",
-            "booklets": []
-        },
-        {
-            "title": "Metro",
-            "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xmetro.png?raw=true",
-            "booklets": []
-        },
-        {
-            "title": "Ашан",
-            "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3xachaun.png?raw=true",
-            "booklets": []
-        },
-        {
-            "title": "Фора",
-            "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTt2pQ2ew5oJtWN_pMtSwT8rtn9fYXl4qefKXz7aYj1lEdMi9Jx",
-            "booklets": []
-        },
-        {
-            "title": "Фуршет",
-            "logoUrl": "https://mmr.ua/uploaded/materials/f315c0b0d0.jpg",
-            "booklets": []
-        },
-        {
-            "title": "МегаМаркет",
-            "logoUrl": "https://latifundist.com/media/company/300-s/00/01/1292/megamarket-104209.png",
-            "booklets": []
-        },
-        {
-            "title": "Еко маркет",
-            "logoUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket.png?raw=true",
-            "booklets": [],
-            "offers": [
-                {
-                    "title": "Просто бомбезна пропозиція",
-                    "previewImageUrl": "https://github.com/RoaringFlow/content/blob/master/images/3Xekomarket-offer-1.png?raw=true",
-                    "validityPeriod": {
-                        "startAt": "2020-01-17T00:00:00",
-                        "endAt": "2020-01-17T00:00:00"
-                    },
-                    "tags": [
-                        {
-                            "id": "123",
-                            "name": "123"
-                        }
-                    ],
-                    "priceInfo": {
-                        "originalPrice": 123,
-                        "discountValue": 10,
-                        "discountType": "Percent"
-                    }
-                }
-            ]
-        },
-
-        {
-            "title": "Fozzy",
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Fozzy_Group_logo.png",
+            "title": "Таврия в",
+            "logoUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/d4/c5/ce/d4c5cee5-256f-68b8-0593-4f9c608120ee/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.png",
             "booklets": []
         },
         {
@@ -146,32 +170,6 @@
         {
             "title": "Велмарт",
             "logoUrl": "https://kirkat.com.ua/images/catalog/be2d7723df0107455b8fc6dbefa8c545.jpg",
-            "booklets": []
-        },
-        {
-            "title": "Таврия в",
-            "logoUrl": "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/d4/c5/ce/d4c5cee5-256f-68b8-0593-4f9c608120ee/AppIcon-1x_U007emarketing-85-220-0-9.png/246x0w.png",
-            "booklets": []
-        },
-
-        {
-            "title": "Eva",
-            "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_EVA.jpg",
-            "booklets": []
-        },
-        {
-            "title": "Faberlic",
-            "logoUrl": "https://pbs.twimg.com/profile_images/682158696235843585/AqSqz8QV_400x400.png",
-            "booklets": []
-        },
-        {
-            "title": "Avon",
-            "logoUrl": "https://www.sostav.ru/images/news/2019/03/12/2zmyiniw.png",
-            "booklets": []
-        },
-        {
-            "title": "Prostor",
-            "logoUrl": "https://cdn0.pokupon.ua/uploaded/merchant_pages/1834/logos/original/Prostor-320x240.png",
             "booklets": []
         }
     ]
